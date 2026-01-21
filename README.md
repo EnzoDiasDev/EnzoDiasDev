@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=FF0033&center=true&width=435&lines=Seja+bem-vindo!!!;sou+estudante+de+engenharia+de+software;Sou+do+primeiro+semestre;Tenho+interesse+em+backend;Paran%C3%A1%2C+Brasil!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=FF0033&center=true&width=435&lines=Seja+bem-vindo!!!;sou+estudante+de+engenharia+de+software;Sou+do+terceiro+semestre;Tenho+interesse+em+IA e ML;Paran%C3%A1%2C+Brasil!"/>
 </div>
 
 <br>
