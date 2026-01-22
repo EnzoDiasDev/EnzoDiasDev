@@ -9,7 +9,7 @@
       <br>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FEnzoDiasDev&s=40&c=ff0033&bg=00000000&no=4&ff=digii&tb=Profile+visits%3A+&ta=" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=EnzoDiasDev&style=for-the-bagde&color=red" /></p> 
 </div>
       
 <br>
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=FF0033&center=true&width=435&lines=Seja+bem-vindo!!!;sou+estudante+de+engenharia+de+software;Sou+do+terceiro+semestre;Tenho+interesse+em+IA e ML;Paran%C3%A1%2C+Brasil!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify&pause=1000&color=FF0033&center=true&vCenter=true&width=435&lines=Seja+bem-vindo!!!;Estudante+de+engenharia+de+software;Terceiro+semestre;Interesse+em+IA+e+ML;Paran%C3%A1%2C+Brasil"/>
 </div>
 
 <br>
