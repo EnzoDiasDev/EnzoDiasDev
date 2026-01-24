@@ -96,15 +96,11 @@
       </table>
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img alt="HTML" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
-  <img alt="CSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
-  <img alt="JavaScript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
-  <img alt="MySQL" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
-  <img alt="VSCode" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
-  <img alt="Windows" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windows.svg">
-  
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,c,py,vscode,git,github,bash,ubuntu,notion,ai&theme=dark" />
+  </a>
+</p>
 
 <br>
 
