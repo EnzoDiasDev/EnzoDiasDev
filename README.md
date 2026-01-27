@@ -54,7 +54,7 @@
                 height=180
                 align="center"
                 alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoDiasDev&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=moltack"
+                src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnzoDiasDev&theme=moltack"
               />
             </a>
           </td>
@@ -72,23 +72,6 @@
                 align="center"
                 alt="Top Language"
                 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoDiasDev&theme=moltack"
-              />
-            </a>
-          </td>
-        </tr>
-      </table>
-</div>
-
-<div align="center">
-      <table>
-        <tr>
-          <td>
-            <a href="https://github.com/EnzoDiasDev">
-              <img
-                height=154
-                align="center"
-                alt="Top Language"
-                src="https://github-readme-streak-stats.herokuapp.com?user=EnzoDiasDev&theme=moltack&hide_border=true&card_width=885"
               />
             </a>
           </td>
